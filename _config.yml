@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Yantao Huang | 黄彦涛"
 title_separator          : "-"
