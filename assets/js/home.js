@@ -13,6 +13,7 @@
       const label = theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode';
       button.setAttribute('aria-label', label);
       button.title = label;
+      button.textContent = theme === 'dark' ? 'Light mode' : 'Dark mode';
     }
   }
 
